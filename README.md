@@ -5,7 +5,7 @@
 
 ## Install
 - python3 버젼을 사용해주세요.
-- Chrome Driver를 설치해주세요.<br>
+- Chrome Driver를 설치해주세요. 크롬 버젼에 맞는,OS에 맞는 드라이버를 <br>
 http://chromedriver.chromium.org/ <br>
 - pip install selenuim <br>
 or
@@ -21,5 +21,5 @@ driver_path = r'/home/chanjun/Desktop/Grammarly_Crawl/chromedriver'
 
 - test.txt 파일을 준비해주세요. 테스트할 예문을 작성해주세요.
 
-# Result
+## Result
 - result.txt에 test.txt에 대한 교정결과가 생성됩니다.
