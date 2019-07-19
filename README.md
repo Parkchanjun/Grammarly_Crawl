@@ -23,3 +23,26 @@ driver_path = r'/home/chanjun/Desktop/Grammarly_Crawl/chromedriver'
 
 ## Result
 - result.txt에 test.txt에 대한 교정결과가 생성됩니다.
+
+
+## Introduce
+Grammarly is an English grammar Correction System. This crawler provides Selenium-based Grammarly automated testing.
+
+## Install
+- Please use the python3 version.
+- Please install the Chrome Driver. The OS-specific driver for your version of Chrome
+http://chromedriver.chromium.org/
+- pip install selenuim
+or
+- pip install -r requirements.txt
+## How to use
+- Please enter your Grammaly ID and password.
+ID = "YOUR_ID" PW = "YOUR_PW"
+
+- Please install the chrome driver according to OS and input the path.
+driver_path = r '/ home / chanjun / Desktop / Grammarly_Crawl / chromedriver'
+
+- Please prepare a test.txt file. Please write an example to test.
+
+## Result
+The result of the calibration for test.txt is generated in result.txt.
