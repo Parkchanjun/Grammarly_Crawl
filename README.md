@@ -4,6 +4,7 @@
 **Grammarly는 영어문법교정사이트입니다. 본 크롤러는 Selenium기반 Grammarly 자동화 테스트 기능을 제공합니다.**
 
 ## Install
+- python3 버젼을 사용해주세요.
 - Chrome Driver를 설치해주세요.<br>
 http://chromedriver.chromium.org/ <br>
 - pip install selenuim <br>
